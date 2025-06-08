@@ -1,6 +1,6 @@
 # Happy Pride Month! - Dynamic Rainbow Page
 
-![Screenshot of the app]([https://via.placeholder.com/600x400?text=Screenshot+of+Your+App](https://github.com/noyeema1/Flask-Rainbow-Page/blob/maingit/Static/images/app-screenshot.png))
+![Screenshot of the app](https://github.com/noyeema1/Flask-Rainbow-Page/blob/maingit/Static/images/app-screenshot.png)
 *Replace this placeholder image link with an actual screenshot or GIF of your running application!*
 
 ## 🌈 Project Description
