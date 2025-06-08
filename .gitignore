@@ -1,0 +1,13 @@
+# Python specific
+*.pyc
+__pycache__/
+.pytest_cache/
+venv/
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code specific
+.vscode/
